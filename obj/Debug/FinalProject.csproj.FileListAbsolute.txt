@@ -1,0 +1,71 @@
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\MainWindow.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\MediaInfo.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\ModifyMedia.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\ModifyMembers.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\PageMedia.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\PageMembers.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\App.g.cs
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\C#\ProjectC#\FinalProject1\FinalProject\bin\Debug\FinalProject.exe.config
+C:\C#\ProjectC#\FinalProject1\FinalProject\bin\Debug\FinalProject.exe
+C:\C#\ProjectC#\FinalProject1\FinalProject\bin\Debug\FinalProject.pdb
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\MainWindow.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\MediaInfo.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\ModifyMedia.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\ModifyMembers.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\PageMedia.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\PageMembers.baml
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject.g.resources
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject.exe
+C:\C#\ProjectC#\FinalProject1\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\MediaInfo.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\ModifyMedia.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\ModifyMembers.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\PageMedia.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\PageMembers.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\App.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\MediaInfo.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\ModifyMedia.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\ModifyMembers.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\PageMedia.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\PageMembers.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\bin\Debug\FinalProject.exe.config
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\bin\Debug\FinalProject.exe
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\bin\Debug\FinalProject.pdb
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\MainWindow.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\MediaInfo.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\ModifyMedia.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\ModifyMembers.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\PageMedia.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\PageMembers.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\App.g.cs
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\MainWindow.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\MediaInfo.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\ModifyMedia.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\ModifyMembers.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\PageMedia.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\PageMembers.baml
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.g.resources
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.exe
+C:\Users\mmandeep5\Desktop\study material\New folder\FinalProjectGroup8\obj\Debug\FinalProject.pdb

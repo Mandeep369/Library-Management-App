@@ -1,0 +1,162 @@
+﻿<Window x:Class="FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="Tan">
+    <Grid>
+       
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"
+                          />
+        </Grid.ColumnDefinitions>
+  <!--Buttons start-->
+         <Button 
+            Grid.Row="0"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+             FontSize="18"
+             Background="Tan"
+            FontFamily="Comic Sans MS"
+             FontWeight="Bold"
+            Content="Lend Media"
+            Name="BtnLendMedia"
+         Click="LendMedia"/>
+            
+        <Button 
+            Grid.Row="1"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            FontSize="18"
+            Content="Return Media"
+            Background="Tan"
+            FontFamily="Comic Sans MS"
+             FontWeight="Bold"
+             Name="BtnReturnMedia"
+         Click="ReturnMedia"/>
+
+         <Button 
+            Grid.Row="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Content="Media Info"
+            FontSize="18"
+             Background="Tan"
+            FontFamily="Comic Sans MS"
+            FontWeight="Bold"
+           Name="BtnMediaInfo"
+          Click="MediaInfo"/>
+
+         <Button 
+            Grid.Row="3"
+            Grid.ColumnSpan="2"
+            Grid.Column="0"
+            Content="Member Info"
+            FontSize="18"
+            Background="Tan"
+            FontFamily="Comic Sans MS"
+            FontWeight="Bold"
+            Name="BtnMemberInfo"
+          Click="MemberInfo" />
+
+         <Button 
+            Grid.Row="7"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Content="Modify Member"
+            FontSize="18"
+            Background="Tan"
+            FontFamily="Comic Sans MS"
+            FontWeight="Bold"
+            Name="BtnModifyMember"
+          Click="ModifyMember"/>
+         <Button 
+            Grid.Row="8"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Content="Modify Media"
+            FontSize="18"
+            Background="Tan"
+            FontWeight="Bold"
+            FontFamily="Comic Sans MS"
+            Name="BtnModifyMedia" 
+         Click="ModifyMedia"/>
+
+        <DataGrid Name="MemberName"
+              Grid.Row="4"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Grid.RowSpan="3"
+               FontSize="15"
+               Background="Tan"
+            FontFamily="Comic Sans MS"
+            AutoGenerateColumns="False">
+            
+
+          <DataGrid.Columns >
+             <DataGridTextColumn Header="Name:"
+                Binding="{Binding Name,Mode=OneWay}"
+                  Width="*"
+                  FontSize="18"
+                FontFamily="Comic Sans MS"/>
+          </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="BookRecord"
+                  Grid.Row="0"
+                  Grid.Column="2"
+                  Grid.ColumnSpan="6"
+                  Grid.RowSpan="7"
+                  Background="Tan"
+                  FontSize="15"
+                  FontFamily="Comic Sans MS"
+                  AutoGenerateColumns="False">
+           
+        <DataGrid.Columns>
+              <DataGridTextColumn Header="Title"
+                 Binding="{Binding Title,Mode=OneWay}"
+                    Width="*"
+                 FontSize="15"                     
+               FontFamily="Comic Sans MS"/>
+              <DataGridTextColumn Header="Type"
+                  Binding="{Binding Type,Mode=OneWay}"
+                   Width="*"
+                    FontSize="15"
+               FontFamily="Comic Sans MS"/>
+          <DataGridCheckBoxColumn Header="Availablity"
+                  Binding="{Binding Availability,Mode=OneWay}"
+                          Width="*" />
+          <DataGridTextColumn Header="Borrower"
+                    Binding="{Binding Borrower,Mode=OneWay}" 
+                    Width="*"
+                   FontSize="15"
+           FontFamily="Comic Sans MS"/>
+       </DataGrid.Columns>
+            
+     </DataGrid>
+
+    </Grid>
+
+   
+</Window>
